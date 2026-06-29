@@ -119,7 +119,7 @@ End-to-end agentic RAG pipeline using LangGraph and LangChain with Graph RAG and
 
 ---
 
-### 💹 [Data Financial Intelligence Platform](https://github.com/Dipenpatel3)
+### 💹 [Data Financial Intelligence Platform](https://github.com/Dipenpatel3/alt-data-finance-platform)
 Databricks Lakehouse platform processing 5M+ financial records across Bronze, Silver, and Gold medallion layers with SCD Type 2 dimensional modeling and real-time SQS ingestion.
 
 `Databricks` `Delta Lake` `PySpark` `Terraform` `FastAPI` `Streamlit`

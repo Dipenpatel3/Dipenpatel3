@@ -20,7 +20,7 @@ Currently working as a **Data Engineer at OneSpan**, building and maintaining pr
 
 I'm deeply passionate about the intersection of data engineering and AI, particularly agentic systems, RAG pipelines, and LLM-powered data infrastructure.
 
-I love building things that scale — from ingesting billions of events to designing Lakehouse architectures that power real business decisions.
+I love building things that scale, from ingesting billions of events to designing Lakehouse architectures that power real business decisions.
 
 ---
 

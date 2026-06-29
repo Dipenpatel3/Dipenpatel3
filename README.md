@@ -113,7 +113,7 @@ I love building things that scale — from ingesting billions of events to desig
 ## 📌 Featured Projects
 
 ### 🤖 [Multi-Agent Coding Assistant](https://github.com/Dipenpatel3)
-End-to-end agentic RAG pipeline using LangGraph and LangChain with Graph RAG and Pinecone vector search. Enables natural language querying across 50GB of code datasets with 60% reduction in response time.
+End-to-end agentic RAG pipeline using LangGraph and LangChain with Graph RAG and Pinecone vector search. Enables natural language querying across 50GB of code datasets with knowledge graph retrieval for AI agents.
 
 `LangChain` `LangGraph` `Graph RAG` `Snowflake` `dbt` `Pinecone` `Airflow`
 

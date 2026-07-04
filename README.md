@@ -132,12 +132,3 @@ Ingested and transformed 1M+ food inspection records using Azure Data Factory an
 `Azure Data Factory` `ADLS` `Apache Iceberg` `Great Expectations`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dipen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipenpatel3&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipenpatel3&layout=compact&theme=dark&hide_border=true)
-
-</div>

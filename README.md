@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I recently graduated with a **Master of Science in Information Systems from Northeastern University** (December 2025) and bring 3+ years of hands-on experience designing and deploying production-grade data systems across AWS and Azure.
+I recently graduated with a **Master of Science in Information Systems from Northeastern University** (December 2025) and bring 4+ years of hands-on experience designing and deploying production-grade data systems across AWS and Azure.
 
 Currently working as a **Data Engineer at OneSpan**, building and maintaining production-grade ETL pipelines with Apache Airflow, architecting AWS event-driven ingestion systems using Lambda, SQS, and CloudFormation, and optimizing Splunk monitoring to ensure high data reliability across authentication and security workflows. I also drive pipeline resiliency improvements that eliminate data loss and duplicate processing at scale. Previously at **Skyfi Labs**, where I built Azure Data Factory ETL pipelines, Kafka infrastructure, and containerized workloads to process high-volume IoT sensor data.
 

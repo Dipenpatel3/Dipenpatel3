@@ -14,13 +14,15 @@
 
 ## 👨‍💻 About Me
 
-I recently graduated with a **Master of Science in Information Systems from Northeastern University** (December 2025) and bring 4+ years of hands-on experience designing and deploying production-grade data systems across AWS and Azure.
+I'm a Data Engineer with 4+ years of experience designing and operating production data infrastructure, from cloud-hosted pipelines to systems that now incorporate AI agents. My journey began with a Bachelor's degree in Electronics & Telecommunication, where a programming course pulled me in a different direction. I later completed my M.S. in Information Systems from Northeastern University, which helped deepen that knowledge, especially around cloud architecture, distributed systems, and AI.
 
-Currently working as a **Data Engineer at OneSpan**, building and maintaining production-grade ETL pipelines with Apache Airflow, architecting AWS event-driven ingestion systems using Lambda, SQS, and CloudFormation, and optimizing Splunk monitoring to ensure high data reliability across authentication and security workflows. I also drive pipeline resiliency improvements that eliminate data loss and duplicate processing at scale. Previously at **Skyfi Labs**, where I built Azure Data Factory ETL pipelines, Kafka infrastructure, and containerized workloads to process high-volume IoT sensor data.
+From working at Skyfi Labs, where I built pipelines and worked on real-time streaming data using Azure and Kafka infrastructure, to working at OneSpan, where I build an authentication analytics platform, I've worked across multiple data stacks: batch processing, streaming, cloud infrastructure, and agentic AI systems that can reason over data on their own.
 
 I'm deeply passionate about the intersection of data engineering and AI, particularly agentic systems, RAG pipelines, and LLM-powered data infrastructure.
 
-I love building things that scale, from ingesting billions of events to designing Lakehouse architectures that power real business decisions.
+- 🔭 Building an end-to-end RAG pipeline that combines LangGraph orchestration with Pinecone vector search and Snowflake as the underlying data layer
+- ☁️ Comfortable operating across multiple cloud ecosystems, including AWS and Azure, with Snowflake and Databricks for large-scale data processing
+- ⚡ Interested in distributed data processing, event-driven pipelines, and AI-augmented data infrastructure
 
 ---
 
@@ -39,8 +41,7 @@ I love building things that scale, from ingesting billions of events to designin
 ### 🖥️ Languages & Query
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ Pipelines & Orchestration

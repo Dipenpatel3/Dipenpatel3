@@ -20,9 +20,9 @@ From working at Skyfi Labs, where I built pipelines and worked on real-time stre
 
 I'm deeply passionate about the intersection of data engineering and AI, particularly agentic systems, RAG pipelines, and LLM-powered data infrastructure.
 
-- 🔭 Building an end-to-end RAG pipeline that combines LangGraph orchestration with Pinecone vector search and Snowflake as the underlying data layer
-- ☁️ Comfortable operating across multiple cloud ecosystems, including AWS and Azure, with Snowflake and Databricks for large-scale data processing
-- ⚡ Interested in distributed data processing, event-driven pipelines, and AI-augmented data infrastructure
+- 🔭 Building an end-to-end RAG pipeline with LangGraph, Pinecone, and Snowflake
+- ☁️ Comfortable across AWS, Azure, Snowflake, and Databricks
+- ⚡ Interested in event-driven pipelines and AI-augmented data infrastructure
 
 ---
 
@@ -38,10 +38,10 @@ I'm deeply passionate about the intersection of data engineering and AI, particu
 
 ## 🛠️ Technical Toolkit
 
-### 🖥️ Languages & Query
+### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ Pipelines & Orchestration
